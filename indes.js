@@ -16,6 +16,7 @@
 //         })
  function myCert(){
     alert("You are redirecting to New Tab Click OK to View Certificate");
+    alert("Thank you for Confirming");
  }
 //     // var element = document.body;
 //     // element.classList.toggle("dark-mode")
@@ -33,17 +34,3 @@
 // document.body.scrollTop = 200; // For Safari
 // document.documentElement.scrollTop = 2000; // For Chrome, Firefox, IE and Opera
 // }
-
-let friuts = ['orange','apple.','banana.']
-// friuts.forEach(item=>console.log(item))
-for(item of friuts){
-    console.log(item)
-}
-console.log(friuts)
-
-var num=0
-while(num<6)
-{
-    console.log(num)
-    num++
-}
